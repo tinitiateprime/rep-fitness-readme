@@ -4,8 +4,12 @@
 * User
 
 ---
+## Login / Sign-Up
+* Login with Google
+* Login with Meta (Facebook/Insta)
 
 ## Admin Facing
+## User Facing
 ### Notification Engine
 * Activity
 * Presets
@@ -29,10 +33,10 @@
 	* Text
 	* Images
 
-
+#### Anti Ageing AI
 #### Sleep AI
 #### Yoga AI
-#### Anti Ageing AI
+
 
 ----
 
